@@ -1,0 +1,24 @@
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  
+.example-button-row button,
+.example-button-row a {
+  margin-right: 8px;
+}
+
+.background-1 {
+  background-image: url("../assets/hand-painted-watercolor-background-with-sky-clouds-shape.jpg");
+  background-size: cover;
+}
+
+.background-2 {
+  background-image: url("../assets/food.png");
+}
+
+.text-inside-grid {
+  position: absolute;
+  left: 5px;
+  top: 5px;
+}
